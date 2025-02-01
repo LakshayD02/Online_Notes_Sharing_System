@@ -53,11 +53,7 @@ The **Online Notes Sharing System** is a web application designed to facilitate 
 
 7. **👍 Use the system:**  
    Register a new account, log in, and begin uploading and categorizing your notes!
-
-## 📞 **Contact**
-
-For any questions or issues, feel free to open an issue on GitHub or contact the repository owner.
-
+   
 ---
 
 Enjoy sharing and organizing your notes! 📚✨
